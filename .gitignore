@@ -114,6 +114,9 @@ celerybeat.pid
 # svg file
 *.svg
 
+#favicons
+*.ico
+
 # Environments
 .env
 .venv
