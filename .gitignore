@@ -112,7 +112,7 @@ celerybeat.pid
 *.sage.py
 
 # svg file
-*.svg
+# *.svg
 
 # Environments
 .env
