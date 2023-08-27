@@ -87,9 +87,9 @@ profile_default/
 ipython_config.py
 
 # images
-*.png
-*.jpg
-*jpeg
+# *.png
+# *.jpg
+# *jpeg
 
 # pyenv
 .python-version
@@ -112,7 +112,7 @@ celerybeat.pid
 *.sage.py
 
 # svg file
-*.svg
+# *.svg
 
 #favicons
 *.ico
